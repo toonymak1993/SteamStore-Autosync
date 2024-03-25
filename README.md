@@ -36,8 +36,8 @@ Currently, the following launchers are supported:
 
 
 2. Download my PowerShell script and place it where you need it. This could be a location for quick access or where you intend to use it, such as in Home Assistant.
-3. Make sure to customize the links in the script. I have indicated the places to change with comments `(change here the Link)`.
-![image](https://github.com/toonymak1993/SteamStore-Autosync/assets/78177901/e6b4714b-e732-41f8-baab-808930755e21)
+3. Make sure to customize the links in the script. I have indicated the places to change with comments `(change here the SRM EXE Link)`.
+![image](https://github.com/toonymak1993/SteamStore-Autosync/assets/78177901/6c669efd-bef3-45d5-9e93-b8492729279c)
 
 4. Enjoy the magic and express your gratitude to the SRM team, without whom this quick automation wouldn't have been possible.
 
